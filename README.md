@@ -40,3 +40,7 @@ Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1
 ![foto](foto/foto9.png)
 
 Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
+
+# **Modul Praktikum Pemrograman Web**
+
+![foto](foto/foto8.png)
