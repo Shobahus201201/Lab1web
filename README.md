@@ -110,7 +110,7 @@ Seperti gambar dibawah
 	`alt` berfungsi untuk menunjukkan sebuah alternate text (teks pengganti) yang akan muncul apabila gambar tidak dapat ditampilkan.
 
 	gambar dibawah ini menunjukan perbedaan title dan alt
-![img3!](img/3/alt-title.png "alt title")
+![foto](foto/foto21.png "alt title")
 
 4. Menurut saya
 
