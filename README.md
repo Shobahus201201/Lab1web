@@ -98,7 +98,7 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 ![foto](foto/foto18.png "before")
 Lalu ketika saya hilangkan akhiran pada Tag `</h1>`menjadi `<h1>`, maka yang akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>` dikarenakan tidak ada akhiran/penutup Tag tersebut. 
 Seperti gambar dibawah
-![img1!](img/1/after.png "after")
+![foto](foto/foto19.png "after")
 
 2. Tag `<p>` berfungsi untuk memberi perintah paragraf pada halaman html
 
