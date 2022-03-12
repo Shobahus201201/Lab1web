@@ -94,10 +94,10 @@ proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan pe
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
 ## Jawab
-1. Saya akan melakukan perubahan pada tag html, gambar dibawah merupakan syntax HTML sebelum saya rubah
+1. Saya akan melakukan perubahan pada tag html, gambar dibawah merupakan syntax HTML sebelum saya merubah
 ![foto](foto/foto18.png "before")
 Lalu ketika saya hilangkan akhiran pada Tag `</h1>`menjadi `<h1>`, maka yang akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>` dikarenakan tidak ada akhiran/penutup Tag tersebut. 
-Seperti gambar dibawah
+Seperti gambar dibawah ini.
 ![foto](foto/foto19.png "after")
 
 2. Tag `<p>` berfungsi untuk memberi perintah paragraf pada halaman html
@@ -112,7 +112,7 @@ Seperti gambar dibawah
 	gambar dibawah ini menunjukan perbedaan title dan alt
 ![foto](foto/foto21.png "alt title")
 
-4. Menurut saya
+4. Menurut saya lebih baik diisi karena pembuat program dapat mengatur ukuran gambar secara panjang dan lebar gambar, dan tidak semua gambar pada html mempunyai ukuran yang langsung ideal untuk ditampilkan terkadang gambar terlalu besar atau terlalu kecil, maka dari itu lebih baik menggunakan height dan weight pada gambar/logo di HTML  
 
 5. `_blank` untuk membuka link di tab baru
 
