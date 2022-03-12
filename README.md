@@ -65,3 +65,9 @@ Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan headi
 
 Simpan perubahannya, kemudian refresh browser.
 ![foto](foto/foto12.png)
+
+**Modul Praktikum Pemrograman Web**
+
+Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
+
+![foto](foto/foto14.png)
