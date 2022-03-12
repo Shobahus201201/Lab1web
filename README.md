@@ -12,3 +12,11 @@ Kemudian buat file baru dengan nama Lab1_tag_dasar.html dan tambahkan dasar doku
 # Modul Praktikum Pemrograman Web
 
 ![foto](foto/foto2.png)
+
+kemudian selanjutnya,buka file tersebut pada web browser misalnya **google chrome.** 
+
+![foto](foto/foto3.png)
+
+# **1. Membuat Paragraf**
+
+![foto](foto/foto4.png)
