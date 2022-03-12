@@ -44,3 +44,10 @@ Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
 # **Modul Praktikum Pemrograman Web**
 
 ![foto](foto/foto8.png)
+
+**3. Memformat teks**
+Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.
+
+![foto](foto/foto10.png)
+
+
