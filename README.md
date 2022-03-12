@@ -34,14 +34,14 @@ Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya.
 Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser. 
 Selanjutnya silakan ubah-ubah nilai atributnya (*align => justify, left, right, dan center*) untuk melihat perbedaan lainnya. 
 
-# **2. Menambahkan Judul**
+## **2. Menambahkan Judul**
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6.Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua
 
 ![foto](foto/foto9.png)
 
 Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
 
-# **Modul Praktikum Pemrograman Web**
+## **Modul Praktikum Pemrograman Web**
 
 ![foto](foto/foto8.png)
 
@@ -50,4 +50,6 @@ Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, menga
 
 ![foto](foto/foto10.png)
 
+Lakukan eksperimen lainnya dengan tag-tag pemformatan teks yang ada
 
+## **4.Menyisipkan Gambar**
