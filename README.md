@@ -37,6 +37,6 @@ Selanjutnya silakan ubah-ubah nilai atributnya (*align => justify, left, right, 
 # **2. Menambahkan Judul**
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6.Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua
 
-[foto](foto/foto9.png)
+![foto](foto/foto9.png)
 
 Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
