@@ -82,7 +82,7 @@ Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut
 
 ![foto](foto/foto17.png)
 
-# **Jawab Pertanyaan Berikut
+# **Jawab Pertanyaan Berikut**
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
 error ketika terjadi kesalahan penulisan tag?
