@@ -71,3 +71,9 @@ Simpan perubahannya, kemudian refresh browser.
 Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
 
 ![foto](foto/foto14.png)
+
+## **5. Menambahkan Hyperlink**
+
+Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
+
+![foto](foto/foto15.png)
