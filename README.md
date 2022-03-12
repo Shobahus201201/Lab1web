@@ -20,3 +20,9 @@ kemudian selanjutnya,buka file tersebut pada web browser misalnya **google chrom
 # **1. Membuat Paragraf**
 
 ![foto](foto/foto4.png)
+
+selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser,lihat hasilnya.
+
+# Modul Praktikum Pemrograman Web
+
+![foto](foto/foto5.png)
