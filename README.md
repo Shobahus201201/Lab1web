@@ -77,3 +77,7 @@ Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur 
 Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
 
 ![foto](foto/foto15.png)
+
+Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.
+
+![foto](foto/foto17.png)
