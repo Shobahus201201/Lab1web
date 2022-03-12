@@ -60,3 +60,8 @@ Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, k
 ![foto](foto/foto11.png)
 
 Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.
+
+![foto](foto/foto13.png)
+
+Simpan perubahannya, kemudian refresh browser.
+![foto](foto/foto12.png)
