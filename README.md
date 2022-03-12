@@ -26,3 +26,10 @@ selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser,li
 # Modul Praktikum Pemrograman Web
 
 ![foto](foto/foto5.png)
+
+Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya.
+
+![foto](foto/foto6.png)
+
+Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser. 
+Selanjutnya silakan ubah-ubah nilai atributnya (*align => justify, left, right, dan center*) untuk melihat perbedaan lainnya. 
