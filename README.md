@@ -82,7 +82,7 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
 
 Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.
 
-![foto](foto/foto17.png)
+![foto](foto/foto171.png)
 
 # **Jawab Pertanyaan Berikut**
 
