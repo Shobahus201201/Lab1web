@@ -66,7 +66,7 @@ Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan headi
 ![foto](foto/foto13.png)
 
 Simpan perubahannya, kemudian refresh browser.
-![foto](foto/foto0.png)
+![foto](foto/foto121.png)
 
 **Modul Praktikum Pemrograman Web**
 
