@@ -1,10 +1,12 @@
-# Nama : SHOBAHUS SOLICHIN
-# NIM : 312010076
-# Kelas : TI.20.A1
-# Matkul : Pemrograman Web
+| Nama      | Shobahus Solichin  |
+| ----------- | ----------- |
+| NIM     | 312010076       |
+| Kelas   | TI.20.A.1        |
 
 ## **Langkah-Langkah Praktikum**
+
 Persiapan membuka VSCode dan Browser
+
 ![foto](foto/foto1.png)
 
 Kemudian buat file baru dengan nama Lab1_tag_dasar.html dan tambahkan dasar dokumen HTML. 
@@ -112,7 +114,10 @@ Seperti gambar dibawah ini.
 	gambar dibawah ini menunjukan perbedaan title dan alt
 ![foto](foto/foto21.png "alt title")
 
-4. Menurut saya lebih baik diisi karena pembuat program dapat mengatur ukuran gambar secara panjang dan lebar gambar, dan tidak semua gambar pada html mempunyai ukuran yang langsung ideal untuk ditampilkan terkadang gambar terlalu besar atau terlalu kecil, maka dari itu lebih baik menggunakan height dan weight pada gambar/logo di HTML  
+4.Menurut saya Kedua property ini sangat penting dan merupakan bagian yang tidak terpisahkan dari sebuah website karena masing-masing Tag atau Element pada sebuah HTML perlu memiliki ukuran yang ideal, sebab itu berpengaruh dalam pengaturan tataletak dan tampilan sebuah website,
+
+	Kecuali pada kondisi tertentu seperti gambar sudah memiliki ukuran yang pas/proporsional cukup mengatur width nya saja
+![foto](foto/foto22.pngs)  
 
 5. `_blank` untuk membuka link di tab baru
 
